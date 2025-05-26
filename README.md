@@ -2,6 +2,19 @@
 
 ![Design preview for the E-commerce product page coding challenge](./design/desktop-preview.jpg)
 
+## Hello guys this is Abdullah 😁
+
+This was one of my first projects to practice, and I **finished** it on January 13, 2024. It was a challenge from [Frontend Mentor (E-commerce product page)](https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6), which mainly focuses on the basic fundamentals (HTML, CSS, JS). The challenge is **rated as intermediate** on the website, and below you will see the main documentation for the app directly from the website.
+
+My experience was cool, but I had some difficulties with the implementing the UI. I was also focusing on some things I was missing, like responsiveness (I only did it for two screen sizes: default and mobile), so the **result wasn't quite as similar as the intended outcome** of the challenge.
+
+If you noticed anything unclear or you **have anything to say**, please don't hesitate to email me.
+
+Thank you,
+Abdullah
+
+abdullahmasoud.elsayed@gmail.com
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
